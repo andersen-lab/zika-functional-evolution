@@ -8,10 +8,10 @@ In order to assess the functional evolution of ZIKV, we're generating a library 
 |AM-A    |3534	           |NS1	|349	    |M          |V	      |               |
 |AM-B (Paraiba_01) No Changes                                     |               |
 |AM-C    |8631	           |NS5	|322	    |I          |V	      |               |
-|        |10301	           |NS5	|878	    |D          |E        |In progress... |
+|        |10301	           |NS5	|878	    |D          |E        |               |
 |AM-D    |8631	           |NS5	|322	    |I          |V        |               |
 |        |10090	           |NS5	|808	    |T          |I        |In progress... |
-|        |10301	           |NS5	|878	    |D          |E        |In progress... |
+|        |10301	           |NS5	|878	    |D          |E        |               |
 |AM-E    |3534	           |NS1	|349	    |M          |V        |               |
 |        |2788	           |NS1	|100	    |G          |A        |               |
 |        |6327	           |NS3	|572	    |M          |L        |               |
@@ -30,8 +30,8 @@ In order to assess the functional evolution of ZIKV, we're generating a library 
 |AM-J    |3534	           |NS1	|349	    |M          |V	      |               |
 |        |2788	           |NS1	|100	    |G          |A        |               |
 |        |6327	           |NS3	|572	    |M          |L        |               |
-|        |4731	           |NS3	|40	        |V          |I        |In progress... |
-|        |9240	           |NS5	|525	    |R          |C        |In progress... |
+|        |4731	           |NS3	|40	        |V          |I        |           |
+|        |9240	           |NS5	|525	    |R          |C        |               |
 |Pre-AM-1|3534	           |NS1	|349	    |M          |V	      |               |
 |		 |8007	           |NS5	|114	    |M          |V	      |               |
 |Pre-AM-2|3534	           |NS1	|349	    |M          |V        |               |
