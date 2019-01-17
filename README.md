@@ -1,10 +1,5 @@
 
-<<<<<<< HEAD
-
-<<<<<<< HEAD
 =======
-# zika-functional-evolution
-#### Mutagenesis studies to understand the functional evolution of Zika virus
 
 In order to assess the functional evolution of ZIKV, we're generating a library of infectious clones that span the recent ZIKV outbreak in the Americas. We're introducing mutations into the the Pariaba_01 strain to represent the 10 major American ZIKV clades which are defined by amino acid changes. We've also included three clades (also defined by amino acid changes) which pre-date the American outbreak. We will use replicative and competitive fitness assays in mosquitoes and various cell lines to map the phenotypes of these clones.  [Data here](https://github.com/andersen-lab/zika-functional-evolution).*
 =======
