@@ -5,7 +5,7 @@ In order to assess the functional evolution of ZIKV, we're generating a library 
 #### ZIKV Infectious Clones
 
 |Clade	 |ZIKV Genome Locus|Gene|AA location|Ancestor AA|Mutant AA|Comments       |
-|:---    |:---	           |:---|:---	    |:---       |:---     |               |
+|:---    |:---	           |:---|:---	    |:---       |:---     |:--               |
 |AM-A    |3534	           |NS1	|349	    |M          |V	      |               |
 |AM-B (Paraiba_01) No Changes                                     |               |
 |AM-C    |8631	           |NS5	|322	    |I          |V	      |               |
