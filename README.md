@@ -10,12 +10,12 @@ To assess the functional evolution of ZIKV, we're generating a library of infect
 |AM-C    |8631	           |NS5	|322	    |I          |V	      |               |
 |        |10301	           |NS5	|878	    |D          |E        |               |
 |AM-D    |8631	           |NS5	|322	    |I          |V        |               |
-|        |10090	           |NS5	|808	    |T          |I        |In progress... |
+|        |10090	           |NS5	|808	    |T          |I        |               |
 |        |10301	           |NS5	|878	    |D          |E        |               |
-|AM-E    |3534	           |NS1	|349	    |M          |V        |               |
+|AM-E    |3534	           |NS1	|349	    |M          |V        |Removing 2 mutations...|
 |        |2788	           |NS1	|100	    |G          |A        |               |
 |        |6327	           |NS3	|572	    |M          |L        |               |
-|        |9240	           |NS5	|525	    |R          |C        |In progress... |
+|        |9240	           |NS5	|525	    |R          |C        |               |
 |AM-F    |3534	           |NS1	|349	    |M          |V        |               |
 |        |428	           |C   |107	    |D          |E        |               |
 |AM-G    |3534	           |NS1	|349	    |M          |V        |               |
@@ -27,7 +27,7 @@ To assess the functional evolution of ZIKV, we're generating a library of infect
 |AM-I    |345	           |C   |80	        |I          |T        |               |
 |        |3534	           |NS1	|349	    |M          |V        |               |
 |        |8467	           |NS5	|267	    |V          |A        |               |
-|AM-J    |3534	           |NS1	|349	    |M          |V	      |               |
+|AM-J    |3534	           |NS1	|349	    |M          |V	      |Removing 1 mutant... |
 |        |2788	           |NS1	|100	    |G          |A        |               |
 |        |6327	           |NS3	|572	    |M          |L        |               |
 |        |4731	           |NS3	|40	        |V          |I        |           |
