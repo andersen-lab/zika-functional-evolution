@@ -1,5 +1,5 @@
 #### Summary
-To assess the functional evolution of ZIKV, we're generating a library of infectious clones that span the recent ZIKV outbreak in the Americas. We're introducing mutations into the the Pariaba_01 strain to represent the 10 major American ZIKV clades which are defined by amino acid changes. We've also included three clades (also defined by amino acid changes) which pre-date the American outbreak. We will use replicative and competitive fitness assays in mosquitoes and various cell lines to map the phenotypes of these clones.
+To assess the functional evolution of ZIKV, we have generated a library of infectious clones that span the recent ZIKV outbreak in the Americas. We're introducing mutations into the the Pariaba_01 strain to represent the 10 major American ZIKV clades which are defined by amino acid changes. We've also included three clades (also defined by amino acid changes) which pre-date the American outbreak. We will use replicative and competitive fitness assays in mosquitoes and various cell lines to map the phenotypes of these clones.
 
 #### Zika virus Infectious Clones
 
@@ -12,7 +12,7 @@ To assess the functional evolution of ZIKV, we're generating a library of infect
 |AM-D    |8631	           |NS5	|322	    |I          |V        |               |
 |        |10090	           |NS5	|808	    |T          |I        |               |
 |        |10301	           |NS5	|878	    |D          |E        |               |
-|AM-E    |3534	           |NS1	|349	    |M          |V        |Removing 2 mutations...|
+|AM-E    |3534	           |NS1	|349	    |M          |V        |               |
 |        |2788	           |NS1	|100	    |G          |A        |               |
 |        |6327	           |NS3	|572	    |M          |L        |               |
 |        |9240	           |NS5	|525	    |R          |C        |               |
@@ -27,7 +27,7 @@ To assess the functional evolution of ZIKV, we're generating a library of infect
 |AM-I    |345	           |C   |80	        |I          |T        |               |
 |        |3534	           |NS1	|349	    |M          |V        |               |
 |        |8467	           |NS5	|267	    |V          |A        |               |
-|AM-J    |3534	           |NS1	|349	    |M          |V	      |Removing 1 mutant... |
+|AM-J    |3534	           |NS1	|349	    |M          |V	      |           |
 |        |2788	           |NS1	|100	    |G          |A        |               |
 |        |6327	           |NS3	|572	    |M          |L        |               |
 |        |4731	           |NS3	|40	        |V          |I        |           |
