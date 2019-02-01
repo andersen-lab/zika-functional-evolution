@@ -1,6 +1,8 @@
 #### Summary
 To assess the functional evolution of ZIKV, we have generated a library of infectious clones that span the recent ZIKV outbreak in the Americas. We have introduced mutations into the the Pariaba_01 strain to represent the 10 major American ZIKV clades which are defined by amino acid changes. We've also included three clades (also defined by amino acid changes) which pre-date the American outbreak. We will use replicative and competitive fitness assays in mosquitoes and various cell lines to map the phenotypes of these clones.
 
+![ZIKV Tree](ZIKVfuncEvo_AACladeTreeRaxML_020119.pdf)
+
 #### Zika virus Infectious Clones
 
 |Clade	 |ZIKV Genome Locus|Gene|AA location|Ancestor AA|Mutant AA|Comments       |
@@ -43,6 +45,7 @@ To assess the functional evolution of ZIKV, we have generated a library of infec
 |        |523	           |prM |17		    |S          |N        |               |
 |        |6363	           |NS3 |584	    |Y          |H        |               |
 |        |3070	           |NS1 |194	    |V          |A        |               |
+
 
 **Disclaimer**. Please note that this data is still based on work in progress and should be considered preliminary. If you intend to include any of these data in publications, please let us know – otherwise please feel free to download and use without restrictions. We have shared this data with the hope that people will download and use it, as well as scrutinize it so we can improve our methods and analyses. Please contact us if you have any questions or comments – we’ll buy beers for #ResearchParasites that spot flaws and faults in the data and come up with improvements!
 
