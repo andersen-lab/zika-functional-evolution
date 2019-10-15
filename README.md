@@ -11,41 +11,41 @@ To assess the functional evolution of ZIKV, we have generated a library of infec
 
 |Clade	 |ZIKV Genome Locus|Gene|AA location|Ancestor AA|Mutant AA|Comments       |
 |:---    |:---	           |:---|:---	    |:---       |:---     |:--               |
-|AM-A    |3534	           |NS1	|349	    |M          |V	      |               |
+|AM-A    |3534	           |NS1	|349	    |M          |V	      | Revert V-->M  |
 |AM-B (Paraiba_01) No Changes                                     |               |
 |AM-C    |8631	           |NS5	|322	    |I          |V	      |               |
 |        |10301	           |NS5	|878	    |D          |E        |               |
 |AM-D    |8631	           |NS5	|322	    |I          |V        |               |
 |        |10090	           |NS5	|808	    |T          |I        |               |
 |        |10301	           |NS5	|878	    |D          |E        |               |
-|AM-E    |3534	           |NS1	|349	    |M          |V        |               |
+|AM-E    |3534	           |NS1	|349	    |M          |V        | Revert V-->M  |
 |        |2788	           |NS1	|100	    |G          |A        |               |
 |        |6327	           |NS3	|572	    |M          |L        |               |
 |        |9240	           |NS5	|525	    |R          |C        |               |
 |AM-F    |3534	           |NS1	|349	    |M          |V        |               |
 |        |428	           |C   |107	    |D          |E        |               |
-|AM-G    |3534	           |NS1	|349	    |M          |V        |               |
+|AM-G    |3534	           |NS1	|349	    |M          |V        | Revert V-->M  |
 |        |428	           |C   |107	    |D          |E        |               |
 |        |3459	           |NS1	|324	    |R          |W        |               |
 |        |10164	           |NS5	|833	    |T          |A        |               |
 |AM-H    |345	           |C   |80         |I          |T        |               |
-|        |3534	           |NS1	|349	    |M          |V        |               |
+|        |3534	           |NS1	|349	    |M          |V        | Revert V-->M  |
 |AM-I    |345	           |C   |80	        |I          |T        |               |
-|        |3534	           |NS1	|349	    |M          |V        |               |
+|        |3534	           |NS1	|349	    |M          |V        | Revert V-->M  |
 |        |8467	           |NS5	|267	    |V          |A        |               |
 |AM-J    |3534	           |NS1	|349	    |M          |V	      |           |
 |        |2788	           |NS1	|100	    |G          |A        |               |
 |        |6327	           |NS3	|572	    |M          |L        |               |
 |        |4731	           |NS3	|40	        |V          |I        |           |
 |        |9240	           |NS5	|525	    |R          |C        |               |
-|Pre-AM-1|3534	           |NS1	|349	    |M          |V	      |               |
-|		 |8007	           |NS5	|114	    |M          |V	      |               |
-|Pre-AM-2|3534	           |NS1	|349	    |M          |V        |               |
-|        |523	           |prM |17		    |S          |N        |               |
+|Pre-AM-1|3534	           |NS1	|349	    |M          |V	      | Revert V-->M  |
+|		 |8007	           |NS5	|114	    |M          |V	      | Revert V-->M  |
+|Pre-AM-2|3534	           |NS1	|349	    |M          |V        | Revert V-->M  |
+|        |523	           |prM |17		    |S          |N        | Revert S-->N  |
 |        |6363	           |NS3	|584	    |Y          |H        |               |
-|        |8007	           |NS5	|114	    |M          |V        |               |
-|Pre-AM-3|3534	           |NS1	|349	    |M          |V        |               |
-|        |8007	           |NS5	|114	    |M          |V        |               |
+|        |8007	           |NS5	|114	    |M          |V        | Revert V-->M  |
+|Pre-AM-3|3534	           |NS1	|349	    |M          |V        | Revert V-->M  |
+|        |8007	           |NS5	|114	    |M          |V        | Revert V-->M  |
 |        |523	           |prM |17		    |S          |N        |               |
 |        |6363	           |NS3 |584	    |Y          |H        |               |
 |        |3070	           |NS1 |194	    |V          |A        |               |
