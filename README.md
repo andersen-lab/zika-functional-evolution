@@ -3,7 +3,7 @@ To assess the functional evolution of ZIKV, we have generated a library of infec
 
 #### Phylogenetic tree of ZIKV samples in Asia and the Americas
 
-![ZIKV Tree](ZIKVfuncEvoCladeTree_020119.png)
+![ZIKV Tree](ZIKVBeastTreeplot_101519.png)
 
 #### Zika virus Infectious Clones
 
