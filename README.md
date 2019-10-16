@@ -4,7 +4,7 @@ To assess the functional evolution of ZIKV, we have generated a library of infec
 #### Phylogenetic tree of ZIKV samples in Asia and the Americas
 
 
-![ZIKV Tree](https://github.com/andersen-lab/zika-functional-evolution/blob/master/ZIKVBeastTreeplot_101519.png)
+![ZIKV Tree](https://raw.githubusercontent.com/andersen-lab/zika-functional-evolution/master/ZIKVBeastTreeplot_101519.png)
 =======
 
 #### Zika virus Infectious Clones
